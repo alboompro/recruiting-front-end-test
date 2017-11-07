@@ -1,0 +1,44 @@
+{
+	"mobile": {
+		"title": "Descubra o novo Pro Site!",
+		"message": "Acesse sua conta pelo computador para completar o upgrade do seu site.",
+		"button": "Voltar ao Painel"
+	},
+	"screens": {
+		"global": {
+			"title": "Você está a um clique da revolução.",
+			"ignoreUpdate": "Atualizar depois",
+			"updateNow": "Atualizar já",
+			"tabs": [
+				"Trabalhos & Galerias",
+				"Editor de Design",
+				"Cresça seu negócio"
+			]
+		},
+		"1": {
+			"subtitle": "Novos modos de exibição de trabalhos e galerias em grid para você mostrar seu potencial ainda mais rápido."
+		},
+		"2": {
+			"subtitle": "Agora tudo pode ficar seu jeito: você pode criar um site exclusivo em minutos.<br>Escolha cores, fontes e visualize as alterações em tempo real."
+		},
+		"3": {
+			"subtitle": "Destaque-se nas ferramentas de pesquisa, integre redes sociais e adicione novos depoimentos com fotos ao seu site."
+		},
+		"updating": {
+			"title": "Só precisamos da sua confirmação :)",
+			"title2": "Carregando seu<br>Pro Site 3.0…",
+			"text": "Todo o conteúdo do seu site (imagens, publicações, preferências e configurações) continua do jeito que você deixou. A evolução está a um passo.",
+			"buttonConfirm": "Confirmar atualização",
+			"linkForgotPassword": "Esqueci a senha",
+			"messageInput": "Digite sua senha do painel para confirmar:",
+			"errorPassword": "Ops, sua senha não é essa :(",
+			"fakeTexts": [
+				"Importando Trabalhos",
+				"Importando Blog",
+				"Carregando novos temas",
+				"Prepararando Editor de Design",
+				"Configurando SEO"
+			]
+		}
+	}
+}
